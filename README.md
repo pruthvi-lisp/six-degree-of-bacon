@@ -1,6 +1,6 @@
 # Six Degrees of Kevin Bacon
 
-This was created during my time as a student at Code Chrysalis.
+
 
 You can see this app in action at http://six-degrees-of-kevin-bacon.beaunus.com/.
 
@@ -66,12 +66,6 @@ yarn start
 npm start
 ```
 
-Once the server is running on your machine, you should be able to navigate to `localhost:8080` and see the app in action. Enter the actor names, press submit and enjoy the magic. Have fun!
 
-## Contributing
-
-If you are interested in contributing to this project, feel free to add an issue or submit a pull request. I look forward to working with you.
-
-Ideas for features can be tracked as issues in this repository.
 
 Thank you for your interest in this project.
